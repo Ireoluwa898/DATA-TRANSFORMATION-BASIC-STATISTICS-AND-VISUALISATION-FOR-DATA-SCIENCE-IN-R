@@ -1,5 +1,5 @@
 # DATA-TRANSFORMATION-BASIC-STATISTICS-AND-VISUALISATION-IN-R
-Task 1 Data transformation 
+Task 1: Data transformation 
 Dataset used for this task: who in the tidy package – This is a dataset containing
 tuberculosis (TB) cases broken down by year, country, age, gender, and diagnosis
 method. Note that this is a dataset embedded in package tidy so there is no need to
@@ -30,7 +30,7 @@ dataset who4
 screen.
 6.  Export who4 as an csv file and save it in your local directory.
 
-7.  Task 2 Basic Statistics for Data Science in R
+7.  Task 2: Basic Statistics for Data Science in R
 For this task, we’ll use the built-in R dataset named "Nile" - no need to download
 any data.
 Q1. Compute the mean, median, mode, variance and standard deviation of the dataset (5
@@ -55,7 +55,7 @@ on normality of the dataset .
 Q6. Use plot() to further explore the dataset including arguments such as xlab, ylab, main
 and type.
 
-Task 3 Visualisation with ggplot2 
+Task 3 :Visualisation with ggplot2 
 Dataset
 The dataset mpg used in this task is a data frame and can be found in the package
 ggplot2 (aka ggplot2::mpg).
